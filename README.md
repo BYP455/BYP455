@@ -1,3 +1,3 @@
 <h1 align="center">
- <img src="https://raw.githubusercontent.com/BYP455/BYP455/refs/heads/main/github-contribution-grid-snake-dark.svg" />
+ <img src="https://github.com/BYP455/BYP455/raw/refs/heads/main/grid.svg" />
 </h1>
